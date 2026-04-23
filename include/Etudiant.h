@@ -1,0 +1,8 @@
+//
+// Created by ofkho on 23/04/2026.
+//
+
+#ifndef C2___COURSE_PRACTICE_ETUDIANT_H
+#define C2___COURSE_PRACTICE_ETUDIANT_H
+
+#endif //C2___COURSE_PRACTICE_ETUDIANT_H
