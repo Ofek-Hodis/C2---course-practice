@@ -6,10 +6,11 @@ typedef struct {
     int jour;
     int mois;
     int annee;
-}Date_t;
+}Date;
+
 /* Prototypes dans Date.h */
-void lireDate(Date_t*);
-void afficheDate(Date_t*);
-int compareDates(Date_t*, Date_t*);
+void lireDate(Date *);
+void afficheDate(Date *);
+int compareDates(Date *, Date *);
 
 #endif //C2___COURSE_PRACTICE_DATE_H

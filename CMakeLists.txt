@@ -6,4 +6,5 @@ set(CMAKE_C_STANDARD 99)
 add_executable(C2___course_practice src/Date.c
         include/Date.h
         include/Etudiant.h
-        src/Etudiant.c)
+        src/Etudiant.c
+        main.c)
